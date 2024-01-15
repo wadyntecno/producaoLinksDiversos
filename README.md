@@ -1,7 +1,7 @@
 # Produção de Links Diversos para o dia a dia
 Links para várias áreas
 
-## Banco de imagens
+### Banco de imagens
 2 https://visualhunt.com/
 3. https://www.pexels.com/
 4. http://epicantus.tumblr.com/
@@ -103,29 +103,30 @@ Links para várias áreas
 100. http://www.raumrot.com/10/
 101. http://jaymantri.com/
 
-## Ferramentas Úteis trrabalhar com paletas de cores e harmonia:
+### Ferramentas Úteis trrabalhar com paletas de cores e harmonia:
 https://color.adobe.com/pt
 pesquisa a fonte atraves de imagem
 https://www.whatfontis.com/
 
-## Escreva um texto e exibe as fontes do PC com a escrita
+### Escreva um texto e exibe as fontes do PC com a escrita
 https://wordmark.it/
-fontes únicas disponibilizadas por criadores
+
+### fontes únicas disponibilizadas por criadores
 https://www.deviantart.com/whats-hot/?q=free+font
 
-## Tamanhos exatos das redes sociais
+### Tamanhos exatos das redes sociais
 http://marketingdeconteudo.com/tamanho-imagens-redes-socia…/
 
-## Tudo sobre OpenGraph de redes socias para seu site
+### Tudo sobre OpenGraph de redes socias para seu site
 http://blog.popupdesign.com.br/facebook-open-graph/
 
-## Teste de preeviews de sites ao linkar no facebook
+### Teste de preeviews de sites ao linkar no facebook
 https://www.facebook.com/login.php…
 
-## Aceleração da sua StartUP projeto do governo
+### Aceleração da sua StartUP projeto do governo
 http://www.inovativabrasil.com.br/programa-de-aceleracao/…
 
-## Mockups
+### Mockups
 https://www.teehanlax.com/tools/iphone
 https://www.teehanlax.com/tools/ipad/
 http://www.premiumpixels.com/
@@ -141,6 +142,6 @@ https://pixelbuddha.net/
 https://creativevip.net/
 http://graphicburger.com/
 
-## Banco de Imagens
+### Banco de Imagens
 http://pt.freeimages.com/
 https://pixabay.c…
